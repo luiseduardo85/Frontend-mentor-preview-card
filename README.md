@@ -1,2 +1,2 @@
 # Frontend-mentor-preview-card
-Desafio para criar um card de um produto 
+Desafio para criar um card de um produto.
