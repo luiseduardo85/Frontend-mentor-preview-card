@@ -1,0 +1,66 @@
+body{
+    background-color:hsl(30, 38%, 92%);
+}
+.card{
+    width: 650px;
+    height: 510px;
+    margin: 5% 28%;
+    background-color: azure;
+    border-radius: 8px;
+}
+img{
+    width: 320px;
+    height: 100%;
+    border-radius: 5px 0px 0px 5px;
+}
+.texto{
+    position: absolute;
+    margin: -500px -8px 35px 355px;
+}
+.titulo-perfume{
+    font-size: 38px;
+    font-family: 'Fraunces', serif;
+    float: right;
+    margin: -450px 21px 30px 352px;
+}
+.paragrafo{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    padding: 10px 5px;
+    margin: -295px 21px 30px 352px;
+}
+.price-tag{
+    margin:0px 0px 0px 352px;
+}
+td{
+    padding: 5px 15px;
+}
+.promo{
+    font-size: large;
+    font-family: 'Fraunces', serif;
+    color: #4E6C50;
+}
+.original{
+    text-decoration:line-through;
+}
+.button{
+    width: 250px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: none;
+    height: 40px;
+    margin: 0px 0px 0px 357px;
+    border-radius: 8px;
+    background-color: #4E6C50;
+}
+.button:hover{
+    border: 2px solid black;
+    cursor: pointer;
+}
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px rgb(17, 28, 28);
+    transform: translateY(4px);
+  }
